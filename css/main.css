@@ -36,8 +36,8 @@ body {
   height: 50px;
   font-size: 40px;
   border-radius: 10px;
-  background-color: rgb(212, 183, 151)
-
+  background-color: rgb(212, 183, 151);
+  cursor: pointer;
 }
 .updateBtn:hover {
   background-color: wheat;
